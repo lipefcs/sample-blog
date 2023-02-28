@@ -34,3 +34,5 @@ Courtesy of [Vikas Rai](https://github.com/raiv200)
 QUALQUER COISA NOVA
 
 Nova Linha commit 
+
+Nova linha com actions habilitada
